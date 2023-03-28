@@ -1,3 +1,5 @@
-Documentação. 
-Passo 1.gi 
-Passo 2. 
+# Descrição : 
+
+Sistema desenvolvido para fins academicos relacionado a um sistema CRM. 
+
+-Modulo clientes 
